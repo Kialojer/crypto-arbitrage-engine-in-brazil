@@ -1,0 +1,24 @@
+# Security (NEVER PUSH THESE)
+.env
+.env.*
+*.pem
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+
+# LangGraph / SQLite local databases (if we use local memory files later)
+*.sqlite3
+*.db
