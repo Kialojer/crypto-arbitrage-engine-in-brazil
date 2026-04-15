@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+langchain-openai
+langchain-core
+langgraph
+python-dotenv
+requests
+fastapi-clerk-auth
