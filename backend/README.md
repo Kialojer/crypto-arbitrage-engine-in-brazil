@@ -1,4 +1,4 @@
-# 🤖 B3 & Crypto Autonomous Agent API
+# 🤖 LANG GRAPH & TOOLS 
 
 An enterprise-grade, event-streaming Backend API built for an Autonomous Financial Agent targeting the Brazilian market. 
 
